@@ -15,7 +15,7 @@
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",
-    "target": "git:github.com/OpenF2/F2.git",
+    "target": "git://github.com/OpenF2/F2.git",
     "basePath": "",
     "files": [
       "sdk/packages/*.js",
