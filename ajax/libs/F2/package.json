@@ -18,9 +18,7 @@
     "target": "git://github.com/OpenF2/F2.git",
     "basePath": "",
     "files": [
-      "sdk/packages/*.js",
-      "sdk/*.js",
-      "sdk/*.map"
+      "dist/*"
     ]
   }
 }
